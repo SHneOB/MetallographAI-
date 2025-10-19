@@ -97,6 +97,17 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## 界面展示
+
+### 训练界面
+![训练界面](assets/main.png)
+
+### 识别界面
+![识别界面](assets/main2.png)
+
+### 数据集管理界面
+![数据集管理界面](assets/main3.png)
+
 ## 使用指南
 
 ### 1. 模型训练
